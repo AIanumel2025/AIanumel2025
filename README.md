@@ -7,7 +7,7 @@
 1. Web scrapping for data extraction and analysis needed to train AI models.
 2. Exploratory data analyses of large datasets to derive insights, to ultimately prepare them for AI model training. >>
 
-<<   Your contribution is immensely valuable and welcome. Feel free to explore all my projects/repositories. >>
+<<   Your contributions are valuable and welcome. Feel free to explore all my projects/repositories. >>
 
 
 
