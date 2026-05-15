@@ -1,6 +1,6 @@
 
 
-<img width="1584" height="396" alt="Black Gold Minimalist Elegant Business LinkedIn Banner" src="https://github.com/user-attachments/assets/35db06ae-f519-4355-9a16-f79fcd522d3e" />
+<img width="1010" height="356" alt="banner" src="https://github.com/user-attachments/assets/2f5cabb0-a211-4ab1-b854-7d46085b32c2" />
 
 
 # 💫 About Me:
