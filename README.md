@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-Hello I am Anthony, welcome to my page. I am currently working on the following:<br>1. Building a complete python ETL pipeline (script) to ingest, transform and store data for downstream analytics and machine learning training.<br>2. Designing multi-layer SQL transformation pipelines using CTEs to clean, engineer predictive features, and construct machine-learning-ready datasets for analytics and modelling.<br><br>All contributions are welcome. Explore, share and recommend!
+Hello I am Anthony, welcome to my page. I am currently working on the following:<br>1. Building an end-to-end Python ETL pipeline to extract, clean, and structure mathematical content from PDFs using computer vision and OCR, to store the data for scalable AI workflows.<br>2. Designing a production-oriented RAG pipeline with SQL transformations, vector embeddings, and semantic retrieval to support LLM-powered educational question answering and analytics applications.<br><br>All contributions are welcome. Explore, share and recommend!
 
 
 ## 🌐 Socials:
