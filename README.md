@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-Hello I am Anthony, welcome to my page. I am currently working on the following:<br>1. Building an end-to-end Python ETL pipeline to extract, clean, and structure mathematical content from PDFs using computer vision and OCR, to store the data for scalable AI workflows.<br>2. Designing a production-oriented RAG pipeline with SQL transformations, vector embeddings, and semantic retrieval to support LLM-powered educational question answering and analytics applications.<br><br>All contributions are welcome. Explore, share and recommend!
+Hello! I am Anthony and welcome to my page. I am currently working on the following:<br>1. A Video Clipping Agent: An agent that turns a video and its transcript into accurately timed clips. I'm building it in Python with whisperx-based forced alignment, the Anthropic API for clip selection, and a FastAPI front end.<br>2. Designing a production-oriented RAG pipeline with SQL transformations, vector embeddings, and semantic retrieval to support LLM-powered educational question answering and analytics applications.<br><br>All contributions are welcome. Explore, share and recommend!
 
 
 ## 🌐 Socials:
