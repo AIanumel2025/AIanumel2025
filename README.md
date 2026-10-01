@@ -1,7 +1,7 @@
 <img width="1010" height="356" alt="banner" src="https://github.com/user-attachments/assets/2f5cabb0-a211-4ab1-b854-7d46085b32c2" />
 
 # 💫 About Me:
-Hello! I’m Anthony. I am currently building agents that turn repetitive work into practical, reviewable workflows. Some of my agents include:
+Hello! I’m Anthony and I build agents that turn repetitive work into practical, reviewable workflows. Some agents I've built:
 
 ### 1. [Accounts Payable Agent](https://github.com/AIanumel2025/accounts-payable-agent) — Ongoing
 Processes invoices, extracts data with OCR, validates financial relationships, and matches supplier, purchase-order, and goods-receipt records.
@@ -21,7 +21,7 @@ Turns long-form videos and transcripts into clips, with transcript-change detect
 - **Value:** Support content repurposing and reduce repeated processing after transcript edits.
 - **Built with:** Python, WhisperX, FFmpeg, and sentence-transformer embeddings.
 
-Interested in a project or collaboration? Let's connect below. All contributions and feedback are welcome.
+Interested in a project/business or collaboration? Let's connect below. All contributions and feedback are welcome.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tonyanumelmsc/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aanumel2025) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anumel_data) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aanumel2025@gmail.com)
