@@ -1,19 +1,19 @@
 <img width="1010" height="356" alt="banner" src="https://github.com/user-attachments/assets/2f5cabb0-a211-4ab1-b854-7d46085b32c2" />
 
 # 💫 About Me:
-Hello! I’m Anthony, an AI Systems Engineer building agents that turn repetitive work into practical, reviewable workflows.
+Hello! I’m Anthony. I am currently building agents that turn repetitive work into practical, reviewable workflows. Some of my agents include:
 
 ### 1. [Accounts Payable Agent](https://github.com/AIanumel2025/accounts-payable-agent) — Ongoing
-Processes invoice PDFs and images, extracts data with OCR, validates financial relationships, and matches supplier, purchase-order, and goods-receipt records.
+Processes invoices, extracts data with OCR, validates financial relationships, and matches supplier, purchase-order, and goods-receipt records.
 
-- **Value:** Reduce manual invoice handling while keeping exceptions under human review.
-- **Built with:** Python, PaddleOCR, PostgreSQL, FastAPI, and a Next.js review interface. No payment execution.
+- **Value:** Reduces manual invoice handling while keeping exceptions under human review.
+- **Built with:** Python, PaddleOCR, PostgreSQL, FastAPI, and a Next.js review interface. No payment execution
 
 ### 2. [Document QA Assistant](https://github.com/AIanumel2025/document-QA-assistant)
-Answers questions from approved PDFs with document and page citations, and abstains when the retrieved evidence is insufficient.
+Answers questions from approved PDFs with document and page citations, and abstains when there is not enough retrieved evidence
 
 - **Value:** Make company knowledge, manuals, and research easier to find and verify.
-- **Built with:** Python, OpenAI, BGE embeddings, Qdrant, FastAPI, and Docker. Verified as a local, single-owner pilot.
+- **Built with:** Python, OpenAI, BGE embeddings, Qdrant, FastAPI, and Docker
 
 ### 3. [Video Clipping Agent](https://github.com/AIanumel2025/video-clipping-agent)
 Turns long-form videos and transcripts into clips, with transcript-change detection and caching for repeat runs.
@@ -21,7 +21,7 @@ Turns long-form videos and transcripts into clips, with transcript-change detect
 - **Value:** Support content repurposing and reduce repeated processing after transcript edits.
 - **Built with:** Python, WhisperX, FFmpeg, and sentence-transformer embeddings.
 
-Interested in a project or collaboration? Connect below—contributions and feedback are welcome.
+Interested in a project or collaboration? Let's connect below. All contributions and feedback are welcome.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tonyanumelmsc/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aanumel2025) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anumel_data) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aanumel2025@gmail.com)
